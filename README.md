@@ -1,4 +1,5 @@
 Reference List 
+
 [1]  Barua, A., Williams, C. D., & Ross, J. L. (2021). A Literature Review of Biological and Bio-Rational Control Strategies for Slugs: Current Research and Future Prospects. Insects, 12(6), 541. https://doi.org/10.3390/insects12060541
 
 [2]  Billman-Jacobe, H., Watt, A., Heap, D., & Haites, R. (2020). A practical guide for managing a self-sustaining colony of Deroceras reticulatum (Müller) (Mollusca: Pulmonata). Biocontrol Science and Technology, 30(9), 920–928. https://doi.org/10.1080/09583157.2020.1791799
