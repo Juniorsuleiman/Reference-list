@@ -10,4 +10,6 @@ Reference List
 
 [5]  Glare, T. R., & Moran-Diez, M. E. (Eds.). (2016). Microbial-Based Biopesticides: Methods and Protocols (Vol. 1477). Springer New York. https://doi.org/10.1007/978-1-4939-6367-6
 
-[6]  Posada-Vergara, C. (2023). Interactions between endophytic Metarhizium brunneum and oilseed rape plants: Effects on plant health and possible mechanisms [Georg-August-University Göttingen]. https://doi.org/10.53846/goediss-10134
+[6]  Iglesias, J., Castillejo, J., & Ester, A. (2002). Laboratory evaluation of potential molluscicides for the control of eggs of the pest slug Deroceras reticulatum (Muller) (Pulmonata: Limacidae). INTERNATIONAL JOURNAL OF PEST MANAGEMENT, 48(1), 19–23. https://doi.org/10.1080/09670870110062553
+
+[7]  Posada-Vergara, C. (2023). Interactions between endophytic Metarhizium brunneum and oilseed rape plants: Effects on plant health and possible mechanisms [Georg-August-University Göttingen]. https://doi.org/10.53846/goediss-10134
